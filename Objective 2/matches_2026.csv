@@ -1,0 +1,105 @@
+match_id,date,team_a,team_b,goals_a,goals_b,shootout_a,shootout_b,venue,venue_country,stage,source_time_text,source_notes,source_url
+WC2026_001,2026-06-11,Mexico,South Africa,2,0,,,Estadio Banorte,Mexico,group,13:00 (04:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_002,2026-06-11,South Korea,Czech Republic,2,1,,,Estadio Akron,Mexico,group,20:00 (11:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_003,2026-06-12,Canada,Bosnia and Herzegovina,1,1,,,BMO Field,Canada,group,15:00 (04:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_004,2026-06-12,United States,Paraguay,4,1,,,SoFi Stadium,United States,group,18:00 (10:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_005,2026-06-13,Qatar,Switzerland,1,1,,,Levi's Stadium,United States,group,12:00 (04:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_006,2026-06-13,Brazil,Morocco,1,1,,,MetLife Stadium,United States,group,18:00 (07:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_007,2026-06-13,Australia,Turkey,2,0,,,BC Place Stadium,Canada,group,21:00 (13:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_008,2026-06-13,Haiti,Scotland,0,1,,,Gillette Stadium,United States,group,21:00 (10:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_009,2026-06-14,Germany,Curaçao,7,1,,,Reliant Stadium,United States,group,12:00 (02:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_010,2026-06-14,Netherlands,Japan,2,2,,,AT&T Stadium,United States,group,15:00 (05:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_011,2026-06-14,Ivory Coast,Ecuador,1,0,,,Lincoln Financial Field,United States,group,19:00 (08:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_012,2026-06-14,Sweden,Tunisia,5,1,,,Estadio BBVA,Mexico,group,20:00 (11:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_013,2026-06-15,Belgium,Egypt,1,1,,,Lumen Field,United States,group,12:00 (04:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_014,2026-06-15,Spain,Cape Verde,0,0,,,Mercedes-Benz Stadium,United States,group,12:00 (01:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_015,2026-06-15,Saudi Arabia,Uruguay,1,1,,,Hard Rock Stadium,United States,group,18:00 (07:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_016,2026-06-15,Iran,New Zealand,2,2,,,SoFi Stadium,United States,group,18:00 (10:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_017,2026-06-16,France,Senegal,3,1,,,MetLife Stadium,United States,group,15:00 (04:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_018,2026-06-16,Iraq,Norway,1,4,,,Gillette Stadium,United States,group,18:00 (07:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_019,2026-06-16,Argentina,Algeria,3,0,,,GEHA Field at Arrowhead Stadium,United States,group,20:00 (10:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_020,2026-06-16,Austria,Jordan,3,1,,,Levi's Stadium,United States,group,21:00 (13:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_021,2026-06-17,Portugal,DR Congo,1,1,,,Reliant Stadium,United States,group,12:00 (02:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_022,2026-06-17,England,Croatia,4,2,,,AT&T Stadium,United States,group,15:00 (05:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_023,2026-06-17,Ghana,Panama,1,0,,,BMO Field,Canada,group,19:00 (08:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_024,2026-06-17,Uzbekistan,Colombia,1,3,,,Estadio Banorte,Mexico,group,20:00 (11:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_025,2026-06-18,Czech Republic,South Africa,1,1,,,Mercedes-Benz Stadium,United States,group,12:00 (01:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_026,2026-06-18,Switzerland,Bosnia and Herzegovina,4,1,,,SoFi Stadium,United States,group,12:00 (04:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_027,2026-06-18,Canada,Qatar,6,0,,,BC Place Stadium,Canada,group,15:00 (07:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_028,2026-06-18,Mexico,South Korea,1,0,,,Estadio Akron,Mexico,group,19:00 (10:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_029,2026-06-19,United States,Australia,2,0,,,Lumen Field,United States,group,12:00 (04:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_030,2026-06-19,Scotland,Morocco,0,1,,,Gillette Stadium,United States,group,18:00 (07:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_031,2026-06-19,Turkey,Paraguay,0,1,,,Levi's Stadium,United States,group,20:00 (12:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_032,2026-06-19,Brazil,Haiti,3,0,,,Lincoln Financial Field,United States,group,20:30 (10:00),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_033,2026-06-20,Netherlands,Sweden,5,1,,,Reliant Stadium,United States,group,12:00 (02:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_034,2026-06-20,Germany,Ivory Coast,2,1,,,BMO Field,Canada,group,16:00 (05:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_035,2026-06-20,Ecuador,Curaçao,0,0,,,GEHA Field at Arrowhead Stadium,United States,group,19:00 (09:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_036,2026-06-20,Tunisia,Japan,0,4,,,Estadio BBVA,Mexico,group,22:00 (13:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_037,2026-06-21,Spain,Saudi Arabia,4,0,,,Mercedes-Benz Stadium,United States,group,12:00 (01:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_038,2026-06-21,Belgium,Iran,0,0,,,SoFi Stadium,United States,group,12:00 (04:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_039,2026-06-21,Uruguay,Cape Verde,2,2,,,Hard Rock Stadium,United States,group,18:00 (07:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_040,2026-06-21,New Zealand,Egypt,1,3,,,BC Place Stadium,Canada,group,18:00 (10:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_041,2026-06-22,Argentina,Austria,2,0,,,AT&T Stadium,United States,group,12:00 (02:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_042,2026-06-22,France,Iraq,3,0,,,Lincoln Financial Field,United States,group,17:00 (06:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_043,2026-06-22,Norway,Senegal,3,2,,,MetLife Stadium,United States,group,20:00 (09:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_044,2026-06-22,Jordan,Algeria,1,2,,,Levi's Stadium,United States,group,20:00 (12:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_045,2026-06-23,Portugal,Uzbekistan,5,0,,,Reliant Stadium,United States,group,12:00 (02:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_046,2026-06-23,England,Ghana,0,0,,,Gillette Stadium,United States,group,16:00 (05:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_047,2026-06-23,Panama,Croatia,0,1,,,BMO Field,Canada,group,19:00 (08:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_048,2026-06-23,Colombia,DR Congo,1,0,,,Estadio Akron,Mexico,group,20:00 (11:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_049,2026-06-24,Switzerland,Canada,2,1,,,BC Place Stadium,Canada,group,12:00 (04:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_050,2026-06-24,Bosnia and Herzegovina,Qatar,3,1,,,Lumen Field,United States,group,12:00 (04:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_051,2026-06-24,Scotland,Brazil,0,3,,,Hard Rock Stadium,United States,group,18:00 (07:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_052,2026-06-24,Morocco,Haiti,4,2,,,Mercedes-Benz Stadium,United States,group,18:00 (07:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_053,2026-06-24,South Africa,South Korea,1,0,,,Estadio BBVA,Mexico,group,19:00 (10:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_054,2026-06-24,Czech Republic,Mexico,0,3,,,Estadio Banorte,Mexico,group,19:00 (10:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_055,2026-06-25,Curaçao,Ivory Coast,0,2,,,Lincoln Financial Field,United States,group,16:00 (05:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_056,2026-06-25,Ecuador,Germany,2,1,,,MetLife Stadium,United States,group,16:00 (05:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_057,2026-06-25,Tunisia,Netherlands,1,3,,,GEHA Field at Arrowhead Stadium,United States,group,18:00 (08:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_058,2026-06-25,Japan,Sweden,1,1,,,AT&T Stadium,United States,group,18:00 (08:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_059,2026-06-25,Turkey,United States,3,2,,,SoFi Stadium,United States,group,19:00 (11:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_060,2026-06-25,Paraguay,Australia,0,0,,,Levi's Stadium,United States,group,19:00 (11:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_061,2026-06-26,Norway,France,1,4,,,Gillette Stadium,United States,group,15:00 (04:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_062,2026-06-26,Senegal,Iraq,5,0,,,BMO Field,Canada,group,15:00 (04:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_063,2026-06-26,Uruguay,Spain,0,1,,,Estadio Akron,Mexico,group,18:00 (09:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_064,2026-06-26,Cape Verde,Saudi Arabia,0,0,,,Reliant Stadium,United States,group,19:00 (09:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_065,2026-06-26,Egypt,Iran,1,1,,,Lumen Field,United States,group,20:00 (12:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_066,2026-06-26,New Zealand,Belgium,1,5,,,BC Place Stadium,Canada,group,20:00 (12:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_067,2026-06-27,Croatia,Ghana,2,1,,,Lincoln Financial Field,United States,group,17:00 (06:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_068,2026-06-27,Panama,England,0,2,,,MetLife Stadium,United States,group,17:00 (06:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_069,2026-06-27,DR Congo,Uzbekistan,3,1,,,Mercedes-Benz Stadium,United States,group,19:30 (09:00),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_070,2026-06-27,Colombia,Portugal,0,0,,,Hard Rock Stadium,United States,group,19:30 (09:00),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_071,2026-06-27,Jordan,Argentina,1,3,,,AT&T Stadium,United States,group,21:00 (11:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_072,2026-06-27,Algeria,Austria,3,3,,,GEHA Field at Arrowhead Stadium,United States,group,21:00 (11:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_073,2026-06-28,South Africa,Canada,0,1,,,SoFi Stadium,United States,round32,12:00 (04:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_074,2026-06-29,Brazil,Japan,2,1,,,Reliant Stadium,United States,round32,12:00 (02:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_075,2026-06-29,Germany,Paraguay,1,1,3,4,Gillette Stadium,United States,round32,16:30 (06:00),Paraguay won a penalty shoot-out following extra time,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_076,2026-06-29,Netherlands,Morocco,1,1,2,3,Estadio BBVA,Mexico,round32,19:00 (10:30),Morocco won a penalty shoot-out following extra time,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_077,2026-06-30,Ivory Coast,Norway,1,2,,,AT&T Stadium,United States,round32,12:00 (02:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_078,2026-06-30,France,Sweden,3,0,,,MetLife Stadium,United States,round32,17:00 (06:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_079,2026-06-30,Mexico,Ecuador,2,0,,,Estadio Banorte,Mexico,round32,20:00 (11:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_080,2026-07-01,England,DR Congo,2,1,,,Mercedes-Benz Stadium,United States,round32,12:00 (01:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_081,2026-07-01,Belgium,Senegal,3,2,,,Lumen Field,United States,round32,13:00 (05:30),Required Extra Time,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_082,2026-07-01,United States,Bosnia and Herzegovina,2,0,,,Levi's Stadium,United States,round32,17:00 (09:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_083,2026-07-02,Spain,Austria,3,0,,,SoFi Stadium,United States,round32,12:00 (04:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_084,2026-07-02,Portugal,Croatia,2,1,,,BMO Field,Canada,round32,19:00 (08:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_085,2026-07-02,Switzerland,Algeria,2,0,,,BC Place Stadium,Canada,round32,20:00 (12:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_086,2026-07-03,Australia,Egypt,1,1,2,4,AT&T Stadium,United States,round32,13:00 (03:30),Egypt won a penalty shoot-out following extra time,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_087,2026-07-03,Argentina,Cape Verde,3,2,,,Hard Rock Stadium,United States,round32,18:00 (07:30),Required Extra Time,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_088,2026-07-03,Colombia,Ghana,1,0,,,GEHA Field at Arrowhead Stadium,United States,round32,20:30 (11:00),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_089,2026-07-04,Canada,Morocco,0,3,,,Reliant Stadium,United States,round16,12:00 (02:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_090,2026-07-04,Paraguay,France,0,1,,,Lincoln Financial Field,United States,round16,17:00 (06:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_091,2026-07-05,Brazil,Norway,1,2,,,MetLife Stadium,United States,round16,16:00 (05:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_092,2026-07-05,Mexico,England,2,3,,,Estadio Banorte,Mexico,round16,19:00 (10:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_093,2026-07-06,Portugal,Spain,0,1,,,AT&T Stadium,United States,round16,14:00 (04:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_094,2026-07-06,United States,Belgium,1,4,,,Lumen Field,United States,round16,17:00 (09:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_095,2026-07-07,Argentina,Egypt,3,2,,,Mercedes-Benz Stadium,United States,round16,12:00 (01:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_096,2026-07-07,Switzerland,Colombia,0,0,4,3,BC Place Stadium,Canada,round16,13:00 (05:30),Switzerland won a penalty shoot-out following extra time,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_097,2026-07-09,France,Morocco,2,0,,,Gillette Stadium,United States,quarterfinal,16:00 (05:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_098,2026-07-10,Spain,Belgium,2,1,,,SoFi Stadium,United States,quarterfinal,12:00 (04:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_099,2026-07-11,Norway,England,1,2,,,Hard Rock Stadium,United States,quarterfinal,17:00 (06:30),Required Extra Time,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_100,2026-07-11,Argentina,Switzerland,3,1,,,GEHA Field at Arrowhead Stadium,United States,quarterfinal,20:00 (10:30),Required Extra Time,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_101,2026-07-14,France,Spain,0,2,,,AT&T Stadium,United States,semifinal,14:00 (04:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_102,2026-07-15,England,Argentina,1,2,,,Mercedes-Benz Stadium,United States,semifinal,15:00 (04:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_103,2026-07-18,France,England,4,6,,,Hard Rock Stadium,United States,third_place,17:00 (06:30),,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
+WC2026_104,2026-07-19,Spain,Argentina,1,0,,,MetLife Stadium,United States,final,15:00 (04:30),Requir,https://fbref.com/en/comps/1/schedule/World-Cup-Scores-and-Fixtures
